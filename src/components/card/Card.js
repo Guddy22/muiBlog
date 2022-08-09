@@ -11,7 +11,7 @@ const Card = ({CardImage}) => {
                     alt="green iguana"
                 />
                 <CardContent>
-                    <Typography gutterBottom variant="body1" align='center' component="div" color="tomato">
+                    <Typography sx={{}} gutterBottom variant="body1" align='center' component="div" color="tomato">
                         PERFUMES
                     </Typography>
 
